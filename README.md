@@ -3,8 +3,15 @@
 
 1. OBJETIVOS
 
-
-
+*-Determinar los diversos valores de voltaje y corriente de una onda seno
+*-Describir como se generan las ondas seno
+*-Aplicar las leyes de circuito basicas a circuitos de ca resistivos.
+*-Describir las relaciones angulares de una onda seno.
+*-Analizar capacitores en serie
+*-Analizar capacitores en paralelo.
+*-Examinar algunas aplicaciones de los capacitores 
+*-Estudiar y analizar los diversos tipos de capacitores.
+*-Describir las partes del osciloscopio.
 2. MARCO TEÓRICO (RESUMEN)
 
 ![image](https://user-images.githubusercontent.com/105679480/179153921-8f392897-1e6f-4cf7-8c04-16b5fe67ed16.png)
