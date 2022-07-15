@@ -70,7 +70,19 @@
 
 6. BIBLIOGRAFÍA
 
+15.1 Fuentes de ac - Física universitaria volumen 2 | OpenStax. (s. f.). Openstax. Recuperado 13 de julio de 2022, de https://openstax.org/books/f%C3%ADsica-universitaria-volumen-2/pages/15-1-fuentes-de-ac
 
+A. (2022b, marzo 17). Valor RMS - Valor Pico - Valor Promedio. Electrónica Unicrom. Recuperado 13 de julio de 2022, de https://unicrom.com/valor-rms-promedio-pico/
+
+Ondas Sinusoidales. (s. f.). compadre. Recuperado 13 de julio de 2022, de https://www.compadre.org/osp/EJSS/4415/210.htm
+
+Osciloscopio y sus partes. (s. f.). AcMax. Recuperado 13 de julio de 2022, de https://acmax.mx/osciloscopio-partes
+
+B. (2019a, mayo 7). Electrónica Básica: Capacitores. AG | Blog. Recuperado 13 de julio de 2022, de https://agelectronica.blog/2019/05/06/electronica-basica-capacitores/#:%7E:text=El%20modelo%20b%C3%A1sico%20de%20capacitor,muchos%20modelos%20diferentes%20de%20construcci%C3%B3n.
+
+Capacitores en serie. (s. f.). Khan Academy. Recuperado 13 de julio de 2022, de https://es.khanacademy.org/science/physics/circuits-topic/circuits-with-capacitors/v/capacitors-series#:%7E:text=Cuando%20se%20conectan%20capacitores%20uno,el%20rec%C3%ADproco%20de%20la%20suma.
+
+404 Not Found. (s. f.). LATAM. Recuperado 13 de julio de 2022, de https://www.mecatronicalatam.com/es/tutoriales/electronica/componentes-electronicos/capacitor/capacitores-en-paralelo/#:%7E:text=La%20conexi%C3%B3n%20de%20capacitores%20(condensador,a%20la%20fuente%20de%20suministro.
 
 RUBRICA
 
