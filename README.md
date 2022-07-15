@@ -3,6 +3,9 @@
 
 1. OBJETIVOS
 
+conocer y analizar los nuevos conceptos basicos  sobre los capacitores e inductores 
+
+
 *-Determinar los diversos valores de voltaje y corriente de una onda seno
 
 *-Describir como se generan las ondas seno
@@ -75,8 +78,38 @@
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+![image](https://user-images.githubusercontent.com/105679480/179220307-9cb028d5-9649-47b5-9ce5-e1ebde20a75b.png)
+![image](https://user-images.githubusercontent.com/105679480/179220349-8fd22127-c0c9-4819-a0cb-ca265708fcee.png)
+![image](https://user-images.githubusercontent.com/105679480/179220388-e618df9e-e82b-473b-8e0a-6ebdf82f9d8d.png)
+![image](https://user-images.githubusercontent.com/105679480/179220423-6cb58cb2-35ef-4cc3-bfdd-02297fc0f0a3.png)
+![image](https://user-images.githubusercontent.com/105679480/179220460-062fedfe-38a6-40bc-bd48-047fd4178ba8.png)
+![image](https://user-images.githubusercontent.com/105679480/179220488-3558a754-23e6-4886-a9a6-52ce22aa1585.png)
+![image](https://user-images.githubusercontent.com/105679480/179220525-ed3ea452-1176-43d0-b90c-e1907953ceb9.png)
+![image](https://user-images.githubusercontent.com/105679480/179220563-8384c357-37ce-4d89-b4bf-d9685b13011f.png)
+![image](https://user-images.githubusercontent.com/105679480/179220589-0135378c-f820-40fd-aa92-f40b7419b944.png)
+![image](https://user-images.githubusercontent.com/105679480/179220615-059530c4-f63c-44e5-b343-7b982cbfe3d3.png)
+![image](https://user-images.githubusercontent.com/105679480/179220655-bec3e68a-ae38-4ae0-90e3-425089f42bab.png)
+![image](https://user-images.githubusercontent.com/105679480/179220689-f2b30743-48a6-4f92-a13d-ff9d7e9bda67.png)
+![image](https://user-images.githubusercontent.com/105679480/179220726-7573f407-6cdc-46c5-b94d-7c83f1880c97.png)
+![image](https://user-images.githubusercontent.com/105679480/179220750-2cc15483-f200-40dd-802a-99cf878555e4.png)
+![image](https://user-images.githubusercontent.com/105679480/179220792-474c9635-6475-4196-920b-761c1e9a3ef6.png)
+![image](https://user-images.githubusercontent.com/105679480/179221022-4630cefb-19e4-4940-a052-e8f51f4d3408.png)
+![image](https://user-images.githubusercontent.com/105679480/179221283-4e0e0e92-cf98-4037-8a9c-3d5d305632a3.png)
+![image](https://user-images.githubusercontent.com/105679480/179221324-8cb5e713-4627-424c-8db3-2d83d1c8a1e7.png)
+![image](https://user-images.githubusercontent.com/105679480/179221378-0353541f-9388-4858-b2d5-2b65426cde77.png)
 
-4. VIDEO
+![image](https://user-images.githubusercontent.com/105679480/179221422-4446e0c7-f841-4068-bf84-93edda1b584e.png)
+![image](https://user-images.githubusercontent.com/105679480/179221461-e96c3214-c9ed-4ff8-a6e7-d340cbad9e37.png)
+![image](https://user-images.githubusercontent.com/105679480/179221498-d060f195-3288-4d90-b231-d43544fce327.png)
+![image](https://user-images.githubusercontent.com/105679480/179221535-2da05bca-01a1-4b68-8a80-b319343a332f.png)
+![image](https://user-images.githubusercontent.com/105679480/179221580-e24974ef-51a8-42e0-854a-2de86280e783.png)
+![image](https://user-images.githubusercontent.com/105679480/179221612-1482d422-8398-4253-ba82-9ca3e07c2c05.png)
+
+![image](https://user-images.githubusercontent.com/105679480/179221678-7ba6ea56-6b19-47e6-a4dd-f4098e256009.png)
+![image](https://user-images.githubusercontent.com/105679480/179221744-d9ec9316-0219-4fdb-a3f7-ad3fbb7f966b.png)
+
+
+4. VÍDEO
 
 
 https://youtu.be/oD4ZDpVuEUU
@@ -84,7 +117,11 @@ https://youtu.be/oD4ZDpVuEUU
 
 
 5. CONCLUSIONES
+*-la onda seno es una forma de onda periodica con el tiempo
 
+*-un capacitor esta compuesto de 2 placas de manera paralela sya separada por un material aislanet 
+
+*-cuando conectamos capacitores en serie la capacidad total es menor que el valor de la capacitancia mas pequeña
 
 
 6. BIBLIOGRAFÍA
